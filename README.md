@@ -308,7 +308,7 @@ class MyTestClas(BaseCase):
 <p align="left">Here's <a href="https://github.com/Othrondir/M-AExercise/blob/master/FRONT/report.html">report.html</a></p>
 <p align="left">Here's <a href="https://github.com/Othrondir/M-AExercise/blob/master/FRONT/report.xml">report.xml</a></p>
 <h2><img src="report.png"></h2>
-
+It should be more detailed, but the current version of pytest has some problems with HTML reports, sorry!
 --------
 
 <a id="basic_example_and_usage"></a>
