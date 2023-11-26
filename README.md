@@ -2,6 +2,9 @@
 Hi, these are the exercise results you asked for, my apologies for not using POM in the automation exercise, but I wanted to be as agile as possible.
 <br>
 <br> 
+You can download the repository from the email attachment I sent you, or view it directly in the repository (I also sent you an invitation).
+<br>
+<br> 
 (I also added a small filter so that items without the quantity option are not listed. You can read all the answers and information in the repository readme.md).
 <br>
 <br>
