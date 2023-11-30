@@ -1,9 +1,6 @@
 <h1>QA Engineer Exercise (Automation) | Nuvolar Works</h1>
 Hi, these are the exercise results you asked for, my apologies for not using POM in the automation exercise, but I wanted to be as agile as possible.
 <br>
-<br> 
-You can download the repository from the email attachment I sent you, or view it directly in the repository (I also sent you an invitation).
-<br>
 <br>
 Note: I have also added a small filter to the Amazon shop automation so that items without the quantity option are not listed. You can read all the answers and information in the readme.md repository. Last test for the API exercise fails on porpouse because other check status value works and shouldn't.
 <br>
