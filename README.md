@@ -1,4 +1,4 @@
-<h1>QA Engineer Exercise (Automation) | Nuvolar Works</h1>
+<h1>QA Engineer Exercise (Automation)</h1>
 Hi, these are the exercise results you asked for, my apologies for not using POM in the automation exercise, but I wanted to be as agile as possible.
 <br>
 <br>
@@ -7,6 +7,54 @@ Note: I have also added a small filter to the Amazon shop automation so that ite
 <br>
 Kind regards.
 
+--------
+<h1>Results:</h1>
+Positive feedback:
+<br>
+MANUAL Create account:
+<br>
+:plus: Good Gherkin usage
+<br>
+MANUAL Pet store API:
+<br>
+:plus: Testcases well defined
+<br>
+AUTO Amazon Exercise:
+<br>
+:plus: SeleniumBase usage
+<br>
+AUTO Pet store API:
+<br>
+:plus: Define a generic method
+ <br>
+Points to improve
+<br>
+MANUAL Create account:
+<br>
+:minus: Coverage is not correct (i. e. fields lenghs limits)
+<br>
+:minus: Background not used
+<br>
+:minus: Scenario Outline can be used
+<br>
+MANUAL PetStore Exercise:
+<br>
+:minus: Coverage is not correct (i. e. empty ID)
+<br>
+AUTO Amazon Exercise:
+<br>
+:minus: Xpaths are not well used. So long and specific. It is better to use relative ones.
+<br>
+:minus: No properties file
+<br>
+:minus: No Page Object or Cucumber used
+<br>
+AUTO PetStore Exercise:
+<br>
+:minus: More testcases can be done (i.e. empty status)
+<br>
+:minus: No Json schema checked
+<br>
 --------
 
 🔵 **1.1 Manual & Analysis Exercise**
