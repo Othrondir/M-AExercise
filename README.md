@@ -9,7 +9,6 @@ Kind regards.
 
 --------
 <h1>Results:</h1>
-Positive feedback:
 <br>
 <h2><img src="feedback.png"></h2>
 --------
